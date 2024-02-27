@@ -1,0 +1,1059 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Dance School",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us ",
+            "screenshot": "screenshots\/about-us-pro.jpg",
+            "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Classes",
+            "screenshot": "screenshots\/classes.jpg",
+            "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Classes",
+            "screenshot": "screenshots\/classes-pro.jpg",
+            "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Class Detail",
+            "screenshot": "screenshots\/class-detail.jpg",
+            "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events-c8e284f0273c390b9354231d84ebc0d2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events-pro.jpg",
+            "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon-pro.jpg",
+            "source": "templates\/coming-soon-2eb57adb4e3c632b6d95070c1069ac65.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Schedule",
+            "screenshot": "screenshots\/schedule.jpg",
+            "source": "templates\/schedule-24ebd1b30a8b56a9f807119d145ad4d6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing-b6eb882d78dc82563825b0237bae4641.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Pro",
+            "screenshot": "screenshots\/pricing-pro.jpg",
+            "source": "templates\/pricing-pro-836395612b5ef162167b6615551b7592.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-70ba2cdb1f213ec9efc6bbdd6d8a3941.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact (Pro)",
+            "screenshot": "screenshots\/contact-pro-.jpg",
+            "source": "templates\/contact-pro-3c5a8d52fcf36914b536cf6ab71fdfcf.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-040d6226eeee40f24a84a5e69a454ced.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "dancer-tossing-hair-e1558338363784.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancer-tossing-hair-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/coming-soon-2eb57adb4e3c632b6d95070c1069ac65.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/contact-70ba2cdb1f213ec9efc6bbdd6d8a3941.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 219377,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "playbtn-custom-2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/playbtn-custom-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/events-c8e284f0273c390b9354231d84ebc0d2.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 2515,
+            "dimensions": [
+                90,
+                90
+            ]
+        },
+        {
+            "filename": "dance-rehearsal-pose-e1558339602801.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dance-rehearsal-pose-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/coming-soon-2eb57adb4e3c632b6d95070c1069ac65.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/popup-040d6226eeee40f24a84a5e69a454ced.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 189468,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "dance-studio-dance-rehearsal-e1558339581568.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dance-studio-dance-rehearsal-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/pricing-pro-836395612b5ef162167b6615551b7592.json",
+                    "name": "Pricing Pro"
+                }
+            ],
+            "filesize": 190051,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "photo-1524772128034-3ecf9a73cbe9-e1558340847296.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1524772128034-3ecf9a73cbe9-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/events-c8e284f0273c390b9354231d84ebc0d2.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 112215,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "photo-1489424731084-a5d8b219a5bb-e1558340838159.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1489424731084-a5d8b219a5bb-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/events-c8e284f0273c390b9354231d84ebc0d2.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 100679,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "photo-1551377293-bf667b4b79a6-1-e1558340820646.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1551377293-bf667b4b79a6-1-500x723.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/events-c8e284f0273c390b9354231d84ebc0d2.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 115167,
+            "dimensions": [
+                800,
+                1156
+            ]
+        },
+        {
+            "filename": "dancer-smiling-e1558338388886.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancer-smiling-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/pricing-pro-836395612b5ef162167b6615551b7592.json",
+                    "name": "Pricing Pro"
+                }
+            ],
+            "filesize": 509387,
+            "dimensions": [
+                1920,
+                2878
+            ]
+        },
+        {
+            "filename": "dancers-do-ballet-warm-up-e1558339491718.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancers-do-ballet-warm-up-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/schedule-24ebd1b30a8b56a9f807119d145ad4d6.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 168502,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "ballet-dancer-barre-warm-up-e1558339354117.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/ballet-dancer-barre-warm-up-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 120564,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "dance-class-in-studio-e1558339767289.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dance-class-in-studio-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-803eb61c6a839de92d797d9bb7f7836e.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                }
+            ],
+            "filesize": 254735,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "photo-1494790108377-be9c29b29330-e1558340801209.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1494790108377-be9c29b29330-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                }
+            ],
+            "filesize": 63158,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "dancers-in-heels-e1558339398587.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancers-in-heels-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-6d52ad9c99e38e2c2b9c468cf4793f93.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/classes-bba0a33b245113a581599f6c0a2f8a5f.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/pricing-b6eb882d78dc82563825b0237bae4641.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/pricing-pro-836395612b5ef162167b6615551b7592.json",
+                    "name": "Pricing Pro"
+                }
+            ],
+            "filesize": 153537,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "dancer-jumps-e1558339306945.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancer-jumps-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/popup-040d6226eeee40f24a84a5e69a454ced.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 79090,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "dancer-in-heels-e1558339511518.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancer-in-heels-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                }
+            ],
+            "filesize": 193901,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "dance-studio-practice-e1558339536910.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dance-studio-practice-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                },
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                },
+                {
+                    "source": "templates\/pricing-pro-836395612b5ef162167b6615551b7592.json",
+                    "name": "Pricing Pro"
+                }
+            ],
+            "filesize": 213015,
+            "dimensions": [
+                1920,
+                1281
+            ]
+        },
+        {
+            "filename": "dancers-warm-up-e1558339384983.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dancers-warm-up-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-a029367965e4b7f56713388dcb94b8ca.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-7b0153f0e98e400bf6d8a4374d04a612.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/classes-934c6109a3935f80475e18513b826a46.json",
+                    "name": "Classes"
+                }
+            ],
+            "filesize": 144724,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "dance-430554_1920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/dance-430554_1920-500x342.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-d31dde79159384154dac49c90f259638.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 577824,
+            "dimensions": [
+                1920,
+                1314
+            ]
+        },
+        {
+            "filename": "photo-1551246259-dbb62ceda081-e1558340828333.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1551246259-dbb62ceda081-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                }
+            ],
+            "filesize": 115077,
+            "dimensions": [
+                800,
+                1200
+            ]
+        },
+        {
+            "filename": "photo-1502519144081-acca18599776-1.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1502519144081-acca18599776-1-500x333.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-3795a37adac474c46c8f34ce9915a818.json",
+                    "name": "About Us "
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/schedule-24ebd1b30a8b56a9f807119d145ad4d6.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 177947,
+            "dimensions": [
+                1950,
+                1300
+            ]
+        },
+        {
+            "filename": "photo-1550063037-be7db23ff0a3-e1558340810575.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1550063037-be7db23ff0a3-500x749.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/class-detail-cf3ca57bcb4ccdc174531f2b025078f5.json",
+                    "name": "Class Detail"
+                }
+            ],
+            "filesize": 85492,
+            "dimensions": [
+                800,
+                1199
+            ]
+        },
+        {
+            "filename": "photo-1550524514-efb9046e0fec-e1558339829152.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1550524514-efb9046e0fec-500x823.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/events-c8e284f0273c390b9354231d84ebc0d2.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 323716,
+            "dimensions": [
+                1920,
+                3162
+            ]
+        },
+        {
+            "filename": "photo-1536294738309-2fc595e788fb-e1558339846867.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/photo-1536294738309-2fc595e788fb-500x750.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/events-232cc4886d76b374da7f2b030e272f28.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 222685,
+            "dimensions": [
+                1920,
+                2880
+            ]
+        },
+        {
+            "filename": "ballet-on-pointe-e1558339328920.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-168\/wp-content\/uploads\/sites\/164\/2019\/04\/ballet-on-pointe-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-pro-3c5a8d52fcf36914b536cf6ab71fdfcf.json",
+                    "name": "Contact (Pro)"
+                }
+            ],
+            "filesize": 100946,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+2024/02/21 22:04:00 [alert] 2436#14840: OpenEvent("ngx_master_10348") failed (2: FormatMessage() error:(15100))
+2024/02/21 22:38:15 [alert] 14444#10920: OpenEvent("ngx_master_16424") failed (2: FormatMessage() error:(15100))
+2024/02/22 12:36:36 [error] 11744#11860: *2733 upstream timed out (10060: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "fifa.local", referrer: "http://fifa.local/wp-admin/post.php?post=21&action=elementor"
+2024/02/23 09:19:55 [alert] 12512#3128: OpenEvent("ngx_master_2252") failed (2: FormatMessage() error:(15100))
+2024/02/23 09:21:23 [alert] 15748#9532: OpenEvent("ngx_master_10060") failed (2: FormatMessage() error:(15100))
+2024/02/23 09:22:32 [alert] 5444#1044: OpenEvent("ngx_master_16080") failed (2: FormatMessage() error:(15100))
+2024/02/23 10:26:28 [alert] 10964#7240: worker process 1240 exited with code C0000142
+2024/02/23 10:26:28 [alert] 10964#7240: could not respawn worker
